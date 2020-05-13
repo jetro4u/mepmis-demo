@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mepims-demo/static/css/main.e612cd9e.chunk.css",
+    "main.js": "/mepims-demo/static/js/main.462eb228.chunk.js",
+    "runtime-main.js": "/mepims-demo/static/js/runtime-main.7cc14591.js",
+    "static/css/2.f005c292.chunk.css": "/mepims-demo/static/css/2.f005c292.chunk.css",
+    "static/js/2.2da8bac8.chunk.js": "/mepims-demo/static/js/2.2da8bac8.chunk.js",
+    "index.html": "/mepims-demo/index.html",
+    "precache-manifest.90eca08125081f0765a4ef102fd4c811.js": "/mepims-demo/precache-manifest.90eca08125081f0765a4ef102fd4c811.js",
+    "service-worker.js": "/mepims-demo/service-worker.js",
+    "static/js/2.2da8bac8.chunk.js.LICENSE.txt": "/mepims-demo/static/js/2.2da8bac8.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/mepims-demo/static/media/muli-latin-900italic.fb9b3ba4.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cc14591.js",
+    "static/css/2.f005c292.chunk.css",
+    "static/js/2.2da8bac8.chunk.js",
+    "static/css/main.e612cd9e.chunk.css",
+    "static/js/main.462eb228.chunk.js"
+  ]
+}
